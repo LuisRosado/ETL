@@ -46,7 +46,7 @@ def job(api_key, cities, db_url, table_name):
 
 def main():
     load_dotenv()  # Cargar variables de entorno
-    api_key = 'f0bed0df07be57162e210baf6fc61f99'
+    api_key = 'YOUR KEY'
     cities = ['Guadalajara', 'Ciudad de México', 'Monterrey']
     db_path = 'weather_data.db'
     db_url = f'sqlite:///{db_path}'
