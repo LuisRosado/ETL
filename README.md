@@ -85,7 +85,3 @@ Define la estructura de la base de datos y contiene la función `create_database
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambios mayores antes de crear un pull request.
-
-## Licencia
-
-[Incluir información de licencia aquí]
